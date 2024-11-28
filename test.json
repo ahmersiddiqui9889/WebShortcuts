@@ -1,9 +1,7 @@
-{
-    "data": [
+[
         {
         "url": "google.com",
         "tips": ["this is first tip", "this is second tip"],
         "shortcuts": ["shortcut1", "shortcut2"]
         }
-    ]
-}
+]
