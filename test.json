@@ -1,14 +1,9 @@
 {
     "data": [
         {
-            "firstName": "Ahmer",
-            "lastName": "Siddiqui",
-            "age": "9999"
-        },
-        {
-            "firstName": "Shashwat",
-            "lastName": "Gupta",
-            "age": "9999"
+        "url": "google.com",
+        "tips": ["this is first tip", "this is second tip"],
+        "shortcuts": ["shortcut1", "shortcut2"]
         }
     ]
 }
