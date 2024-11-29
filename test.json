@@ -1,7 +1,38 @@
 [
-        {
+    {
         "url": "google.com",
-        "tips": ["this is first tip", "this is second tip"],
-        "shortcuts": ["shortcut1", "shortcut2"]
-        }
+        "tips": [
+            "this is first tip",
+            "this is second tip"
+        ],
+        "shortcuts": [
+            "shortcut1",
+            "shortcut2"
+        ]
+    },
+    {
+        "url": "bing.com",
+        "tips": [
+            "this is first tip of bing",
+            "this is second tip of bing"
+        ],
+        "shortcuts": [
+            "shortcut1",
+            "shortcut2",
+            "shortcut3"
+        ]
+    },
+    {
+        "url": "youtube.com",
+        "tips": [
+            "youtubeTip1",
+            "youtubeTip2",
+            "youtubeTip3"
+        ],
+        "shortcuts": [
+            "ytshort1",
+            "ytshort2",
+            "ytshort3"
+        ]
+    }
 ]
