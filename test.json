@@ -1,6 +1,6 @@
 [
     {
-        "url": "google.com",
+        "url": "www.google.com",
         "tips": [
             "this is first tip",
             "this is second tip"
@@ -11,7 +11,7 @@
         ]
     },
     {
-        "url": "bing.com",
+        "url": "www.bing.com",
         "tips": [
             "this is first tip of bing",
             "this is second tip of bing"
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "url": "youtube.com",
+        "url": "www.youtube.com",
         "tips": [
             "youtubeTip1",
             "youtubeTip2",
